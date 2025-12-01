@@ -42,7 +42,7 @@
     "defaults"
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^7.0.1",
+    "@fortawesome/fontawesome-free": "^7.1.0",
     "@types/jquery": "^3.5.33",
     "@types/material-design-lite": "^1.1.22",
     "@types/prismjs": "^1.26.5",
